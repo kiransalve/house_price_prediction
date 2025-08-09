@@ -21,7 +21,13 @@ A **Streamlit web application** that uses **Linear Regression** to predict house
 
 - 📊 **Model Training**  
   - Trains a **Linear Regression** model  
-  - Displays **Intercept** and **Slopes** (coefficients)  
+  - **Intercept (β₀):** `547146.1653322706`
+
+| Feature  | Slope (β)       |
+|----------|-----------------|
+| RM       | 55164.033894    |
+| LSTAT    | -11535.492244   |
+| PTRATIO  | -16542.866348   |
   - Shows evaluation metrics:
     - **RMSE** (Root Mean Squared Error)  -  62461.55
     - **R² Score**   71.97%
@@ -68,4 +74,5 @@ A **Streamlit web application** that uses **Linear Regression** to predict house
 - Residual plot
 
 <img width="3600" height="900" alt="error" src="https://github.com/user-attachments/assets/7cdcfb64-f383-4b46-8838-0ef9cdf191f3" />
+
 
