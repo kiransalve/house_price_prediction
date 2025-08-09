@@ -3,6 +3,9 @@
 A **Streamlit web application** that uses **Linear Regression** to predict house prices.
 ---
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/25dc0ec9-1831-44ec-8843-98c2932ba80e" />
+
+
 ## 📌 Features
 - 📂 **Dataset**  
   - Used boston house price dataset
@@ -74,5 +77,6 @@ A **Streamlit web application** that uses **Linear Regression** to predict house
 - Residual plot
 
 <img width="3600" height="900" alt="error" src="https://github.com/user-attachments/assets/7cdcfb64-f383-4b46-8838-0ef9cdf191f3" />
+
 
 
