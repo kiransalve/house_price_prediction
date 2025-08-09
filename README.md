@@ -61,20 +61,11 @@ A **Streamlit web application** that uses **Linear Regression** to predict house
 
 - Actual vs Predicted scatter plot  
 
-<img width="1920" height="1440" alt="Actual_vs_predicted" src="https://github.com/user-attachments/assets/90b902b3-56b2-4644-b00e-8b4d4b5f96ed" />
+<img width="1920" height="1440" alt="Actual_vs_predicted" src="https://github.com/user-attachments/assets/ecb3108d-2423-4d5d-a119-f3423f4dedfb" />
 
 <img width="4500" height="900" alt="Actualvspredicted" src="https://github.com/user-attachments/assets/adacc4c4-0f6a-4df1-81eb-402c4e4b908e" />
 
 - Residual plot
 
 <img width="3600" height="900" alt="error" src="https://github.com/user-attachments/assets/7cdcfb64-f383-4b46-8838-0ef9cdf191f3" />
-
----
-
-## 🚀 Installation
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/streamlit-house-price-app.git
-   cd streamlit-house-price-app
-
 
