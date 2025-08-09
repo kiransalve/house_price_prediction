@@ -11,7 +11,7 @@ A **Streamlit web application** that uses **Linear Regression** to predict house
   - Used boston house price dataset
   - that has four columns -
 
-    | Column      | Meaning                                                         | Why it matters for price prediction                                                        |
+| Column      | Meaning                                                         | Why it matters for price prediction                                                        |
 | ----------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **RM**      | Average number of rooms per house                            | More rooms usually mean larger houses, which often have higher prices.                     |
 | **LSTAT**   | Percentage of lower-status population                           | Higher % often correlates with lower house prices.                                         |
@@ -77,6 +77,7 @@ A **Streamlit web application** that uses **Linear Regression** to predict house
 - Residual plot
 
 <img width="3600" height="900" alt="error" src="https://github.com/user-attachments/assets/7cdcfb64-f383-4b46-8838-0ef9cdf191f3" />
+
 
 
 
