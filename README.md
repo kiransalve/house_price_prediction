@@ -49,13 +49,14 @@ A **Streamlit web application** that uses **Linear Regression** to predict house
 <img width="1800" height="1200" alt="RM_histplot" src="https://github.com/user-attachments/assets/2907000d-0624-449d-97aa-685e78308ced" />
 
 - Scatter plot
-  
-<img width="1800" height="1200" alt="RM_histplot" src="https://github.com/user-attachments/assets/7333c719-1f31-4e78-a75e-ef552b14960d" />
 
+  -LSTAT
+<img width="1800" height="1200" alt="LSTAT_scatter" src="https://github.com/user-attachments/assets/d3fdfbbf-c1a1-47d4-b02f-cfcd6f608f40" />
+
+  -PTRATIO
 <img width="1800" height="1200" alt="PTRATIO_scatter" src="https://github.com/user-attachments/assets/bf16d784-4664-4e66-91cc-a3f4586079c9" />
-
-<img width="1800" height="1200" alt="MEDV_scatter" src="https://github.com/user-attachments/assets/c497e305-8373-40e2-889c-b8a98cd6053f" />
-
+ 
+  -RM
 <img width="1800" height="1200" alt="RM_scatter" src="https://github.com/user-attachments/assets/6e317599-6c03-4bfe-a262-82b182f06887" />
 
 - Actual vs Predicted scatter plot  
@@ -75,4 +76,5 @@ A **Streamlit web application** that uses **Linear Regression** to predict house
    ```bash
    git clone https://github.com/yourusername/streamlit-house-price-app.git
    cd streamlit-house-price-app
+
 
